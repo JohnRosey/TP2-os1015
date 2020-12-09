@@ -1,0 +1,2 @@
+fichCVSEXE: message_immmortel.c
+	gcc -o fichCVSEXE message_immmortel.c
